@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "guid": "c1d4e0b9-2853-4f70-bd73-821806ded1cf",
+    "type": "employee",
+    "firstname": "Orr",
+    "surname": "Keller",
+    "email": "orrkeller@plasmos.com",
+    "address": "580 Herzl Street, Disautel, Arizona, 3049",
+    "salary": 96986
+  },
+  {
+    "id": 1,
+    "guid": "c137cf80-b6bd-4fa8-8959-bffe50a7e422",
+    "type": "employee",
+    "firstname": "Harrell",
+    "surname": "Chang",
+    "email": "harrellchang@plasmos.com",
+    "address": "663 Pooles Lane, Diaperville, Federated States Of Micronesia, 9065",
+    "salary": 423042
+  },
+  {
+    "id": 2,
+    "guid": "1026643b-c428-4e03-8cdd-642f3db443d4",
+    "type": "employee",
+    "firstname": "Bird",
+    "surname": "Bonner",
+    "email": "birdbonner@plasmos.com",
+    "address": "534 Wyckoff Street, Makena, Virgin Islands, 1302",
+    "salary": 30137
+  },
+  {
+    "id": 3,
+    "guid": "68731d3f-dd2e-442e-90af-337b7ad33174",
+    "type": "employee",
+    "firstname": "Olivia",
+    "surname": "Barton",
+    "email": "oliviabarton@plasmos.com",
+    "address": "223 Lynch Street, Chumuckla, Kansas, 393",
+    "salary": 74631
+  },
+  {
+    "id": 4,
+    "guid": "865b16ba-ba94-4e2e-901b-df2b8f62819f",
+    "type": "employee",
+    "firstname": "Mai",
+    "surname": "Francis",
+    "email": "maifrancis@plasmos.com",
+    "address": "832 Madoc Avenue, Wauhillau, New Jersey, 780",
+    "salary": 261339
+  },
+  {
+    "id": 5,
+    "guid": "72b920e9-0b27-4d0a-8022-d84db404603b",
+    "type": "employee",
+    "firstname": "Rosella",
+    "surname": "Hardin",
+    "email": "rosellahardin@plasmos.com",
+    "address": "154 Clarkson Avenue, Masthope, Iowa, 3007",
+    "salary": 42422
+  },
+  {
+    "id": 6,
+    "guid": "4e302612-3ae4-43e0-be5e-ed6c31ef3aaf",
+    "type": "employee",
+    "firstname": "Cassandra",
+    "surname": "Figueroa",
+    "email": "cassandrafigueroa@plasmos.com",
+    "address": "598 Fleet Street, Mathews, Hawaii, 9994",
+    "salary": 31528
+  },
+  {
+    "id": 7,
+    "guid": "81f84bf6-ba37-4fef-a10e-fea85c82eaa2",
+    "type": "employee",
+    "firstname": "Rivas",
+    "surname": "Sampson",
+    "email": "rivassampson@plasmos.com",
+    "address": "287 Heath Place, Cressey, Northern Mariana Islands, 2621",
+    "salary": 81661
+  },
+  {
+    "id": 8,
+    "guid": "a4cf7a4d-5e73-4f3e-bdb7-f2d6af6703ce",
+    "type": "employee",
+    "firstname": "Crystal",
+    "surname": "Bender",
+    "email": "crystalbender@plasmos.com",
+    "address": "407 Monument Walk, Fostoria, Kentucky, 977",
+    "salary": 835920
+  },
+  {
+    "id": 9,
+    "guid": "3d69251a-4869-4c5b-88aa-23195c4a687b",
+    "type": "employee",
+    "firstname": "Becky",
+    "surname": "Holcomb",
+    "email": "beckyholcomb@plasmos.com",
+    "address": "820 Schenck Street, Rivers, Missouri, 2007",
+    "salary": 69989
+  },
+  {
+    "id": 10,
+    "guid": "0e418783-9432-4c58-96d9-de21d1dce839",
+    "type": "employee",
+    "firstname": "Kaye",
+    "surname": "Macdonald",
+    "email": "kayemacdonald@plasmos.com",
+    "address": "997 Centre Street, Vaughn, Maryland, 3087",
+    "salary": 136890
+  }
+]

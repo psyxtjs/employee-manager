@@ -1,0 +1,14 @@
+<div local-class="add-employee">
+    <h4>{{@title}}</h4>
+
+    <p local-class="{{this.messageColourClass}}">{{this.message}}</p>
+
+    <form {{on "submit" this.updateEmployee}}>
+      <Input @type="text" @placeholder="Firstname" @value={{this.firstname}} required />
+      <Input @type="text" @placeholder="Surname" @value={{this.surname}} required />
+      <Input @type="email" @placeholder="Email" @value={{this.email}} required />
+      <Input @type="text" @placeholder="Address" @value={{this.address}} required />
+      <Input @type="number" @placeholder="Salary (€)" @value={{this.salary}} min="1000" required />
+      <Input @type="submit" @value="{{@buttonText}}" class="btn btn-primary" />
+    </form>
+</div>

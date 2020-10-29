@@ -1,0 +1,9 @@
+<tr>
+    <td>{{@employee.firstname}}</td>
+    <td>{{@employee.surname}}</td>
+    <td>{{@employee.email}}</td>
+    <td>{{@employee.address}}</td>
+    <td align="right">{{displaySalary}}</td>
+    <td><LinkTo @route="edit" @model={{@employee}} @tagName="button" class="btn btn-primary">&#9998;</LinkTo></td>
+    <td><button type="button" class="btn btn-primary" {{on "click" this.delete}}>&#9760;</button></td>
+</tr>
